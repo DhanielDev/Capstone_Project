@@ -34,10 +34,10 @@ Proyek ini melakukan **analisis sentimen ulasan film IMDB** menggunakan **LLM IB
    {
      "model": "ibm-granite/granite-3.2-8b-instruct",
      "n_samples": 300,
-     "accuracy": 0.88,
-     "macro_precision": 0.87,
-     "macro_recall": 0.88,
-     "macro_f1": 0.87,
-     "avg_relevance": 0.91,
-     "avg_clarity": 0.85
+     "accuracy": 0.85,
+     "macro_precision": 0.9845169775227165,
+     "macro_recall": 0.8496260683760684,
+     "macro_f1": 0.9120876301882921,
+     "avg_relevance": 0.5278750361471126,
+     "avg_clarity": 0.4607278303044684
    }
